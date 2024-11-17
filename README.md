@@ -1,7 +1,7 @@
 ### Vitor Hugo Da Silva Oliveira
 Hello World, I'm Vitor Hugo, I'm 20 years old and I study systems analysis and development
 
-- 📝 Estudante de **Análise e Desenvolvimento de Sistemas**.
+- 📝 Estudante de **Front-End**.
 - 🚀 foco, disciplina e execução.
 - 💻 Atualmente focado em:
 
