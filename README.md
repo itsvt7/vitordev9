@@ -1,5 +1,5 @@
 ### Vitor Hugo Da Silva Oliveira
-Hello world, my name is Vitor Hugo, I'm 20 years old and I study systems analysis and development
+Hello world, my name is Vitor Hugo, I'm 20 years old and I study web development
 
 - 📝 Estudando **Front-End**
 - 🚀 foco, disciplina e execução.
