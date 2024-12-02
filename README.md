@@ -1,4 +1,4 @@
-### Vitor Hugo Da Silva Oliveira
+### Vitor Hugo
 Hello world, my name is Vitor Hugo, I'm 20 years old and I study web development
 
 - 👑 Owner of **NextCode**
