@@ -1,9 +1,9 @@
 ### Vitor Hugo
 Hello world, my name is Vitor Hugo, I'm 20 years old and I study web development
 
-- `🙋‍♂️`・**Hello**, I'm vitor hugo
-- `💻`・**Studying** __front-end__
-- `🎯`・__focus, discipline and execution__
+- `🙋‍♂️` **Hello**, I'm vitor hugo
+- `💻` **Studying** __front-end__
+- `🎯` __focus, discipline and execution__
 
 ## 🔨 Currently focused on:
 
